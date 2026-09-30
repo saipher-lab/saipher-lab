@@ -48,9 +48,9 @@
 <!-- Connections -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/jenifferpott_"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:jeniffer.pott070@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/jenifferpott_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jenifferpott/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jeniffer.pott070@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/jenifferpott_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 </p>
 
 <!-- Snake Game -->
