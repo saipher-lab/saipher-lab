@@ -34,7 +34,6 @@
 
 <!-- Skills & Projects -->
 <p><b>Skills</b></p>
-<h3 align="center">Skills</h3>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=white">
