@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=601F9E&center=true&vCenter=true&width=350&lines=Jeniffer+Pott;Saipher;Cybersecurity • Technology • AI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=601F9E&center=true&vCenter=true&width=350&lines=Jeniffer+Pott;Saipher;Cybersecurity+•+Technology+•+AI" alt="Typing SVG" /></a>
 </p>
 
 <!-- Bio -->
